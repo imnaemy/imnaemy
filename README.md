@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Nandhitta Aemy.</h1>
 <h3 align="center">i have a deep passion in creating visual, including doing ilustrations, graphic design, front-end, ui/ux design and game for as long as i remember and i fall in love with it everyday˚ ༘♡ ⋆｡˚</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/380199/screenshots/17207806/media/019cdf0277844384c2c5cba292d82b4b.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/427857/screenshots/16181208/media/73c4efbf90e1bd8011ea9b2b9e422e77.mp4">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imnaemy&label=Profile%20views&color=0e75b6&style=flat" alt="imnaemy" /> </p>
 
